@@ -6,4 +6,4 @@ Open your terminal or command prompt and run the following commands:
 pip install numpy
 pip install plotly
 pip install matplotlib
-Once you've installed these libraries, you can run the code.
+Once you've installed these three libraries, you can run the code.
