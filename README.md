@@ -3,5 +3,7 @@
 
 # If you haven't installed matplotlib and numpy yet.
 Open your terminal or command prompt and run the following commands:
-pip install matplotlib numpy
+pip install numpy
+pip install plotly
+pip install matplotlib
 Once you've installed these libraries, you can run the code.
